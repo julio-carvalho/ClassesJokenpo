@@ -1,5 +1,5 @@
 ## Orientação a objeto no Jokenpo
 
-Utilizando conceitos de orientação a objeto no jogo Jokenpo, foi utilizado Abstração, Encapsulamento e Herança.
+Utilizando conteúdos de orientação a objeto e boas práticas de Java no jogo Jokenpo, foi utilizado Classes com Abstração, Encapsulamento e Herança.
 
-
+Julio Carvalho
